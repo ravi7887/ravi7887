@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [file:///C:/Users/Ravi/Downloads/fresume12.pdf](file:///C:/Users/Ravi/Downloads/fresume12.pdf)
 
-- ⚡ Fun fact **⚡ Fun fact: I’m a Python enthusiast who enjoys optimizing code almost as much as a good debugging challenge! ⚡ Fun fact: I built a complete ecosystem for Deloitte single-handedly, optimizing workflows and removing duplicates with custom solutions!**
+- ⚡ Fun fact ** I’m a Python enthusiast who enjoys optimizing code almost as much as a good debugging challenge!  I built a complete ecosystem for Deloitte single-handedly, optimizing workflows and removing duplicates with custom solutions!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
