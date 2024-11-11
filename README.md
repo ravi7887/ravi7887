@@ -1,5 +1,5 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Ravi Dixit</h1>
+<h1 align="center">Hi 👋, I'm Ravi Dixit</h1> 
 <h3 align="center">Backend Developer with 3+ years of experience specializing in Python. Skilled in Django and PHP, with a strong foundation in full stack development. Passionate about building efficient, scalable applications and solving complex problems.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
